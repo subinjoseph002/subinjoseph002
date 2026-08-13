@@ -16,7 +16,10 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/subin-joseph-varghese002?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-<img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="[subinjoseph002@gmail.com](mailto:subinjoseph002@gmail.com)"> <img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+
+<a href="mailto:subinjoseph002@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-subinjoseph002%40gmail.com-6366F1?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
 </a>
 <a href="https://github.com/subinjoseph002">
 <img src="https://img.shields.io/badge/GitHub-24243E?style=for-the-badge&logo=github&logoColor=white"/>
