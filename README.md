@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/MCA-2025--2027-7C3AED?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCA-2025--2027-7C3AED?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Location-Kottayam%2C%20Kerala-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
